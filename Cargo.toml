@@ -1,0 +1,11 @@
+[package]
+
+name = "rust_algorithms"
+version = "0.1.0"
+authors = ["kanishkd4 <kanishkd4@gmail.com>"]
+
+[lib]
+name = "algorithms"
+path = "src/algorithms/lib.rs"
+
+[dependencies]
