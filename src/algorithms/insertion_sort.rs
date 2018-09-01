@@ -35,6 +35,6 @@ pub fn insertion_sort(vec: Vec<i32>) {
     println!("new_vector: {:?}", new_vector);
     let mut new_vec_test = &vec[..2];
     println!("new vec test: {:?}", new_vec_test);
-    let vec = new_vec_test.extend_from_slice(&mut new_vector);
-    println!("pushing one vector into another: {:?}", vec);
+    // let vec = new_vec_test.extend_from_slice(&mut new_vector);
+    // println!("pushing one vector into another: {:?}", vec);
 }
