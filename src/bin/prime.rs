@@ -27,5 +27,5 @@ fn main() {
     //     }
     // }
     // println!("Primes up to {}: {:?}", n, primes.len());
-    prime_number_generator::sieve_of_eratosthenes(1000_000_000);
+    prime_number_generator::sieve_of_eratosthenes(1000_000_0);
 }
